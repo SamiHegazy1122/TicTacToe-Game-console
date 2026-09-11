@@ -1,0 +1,15 @@
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\bin\Debug\net8.0\TicTacToe-Game-console.exe
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\bin\Debug\net8.0\TicTacToe-Game-console.deps.json
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\bin\Debug\net8.0\TicTacToe-Game-console.runtimeconfig.json
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\bin\Debug\net8.0\TicTacToe-Game-console.dll
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\bin\Debug\net8.0\TicTacToe-Game-console.pdb
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net8.0\TicTacToe-Game-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net8.0\TicTacToe-Game-console.AssemblyInfoInputs.cache
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net8.0\TicTacToe-Game-console.AssemblyInfo.cs
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net8.0\TicTacToe-Game-console.csproj.CoreCompileInputs.cache
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net8.0\TicTacToe-Game-console.sourcelink.json
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net8.0\TicTacToe-Game-console.dll
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net8.0\refint\TicTacToe-Game-console.dll
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net8.0\TicTacToe-Game-console.pdb
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net8.0\TicTacToe-Game-console.genruntimeconfig.cache
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net8.0\ref\TicTacToe-Game-console.dll

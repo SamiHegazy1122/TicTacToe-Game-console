@@ -1,0 +1,5 @@
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net10.0\TicTacToe-Game-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net10.0\TicTacToe-Game-console.AssemblyInfoInputs.cache
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net10.0\TicTacToe-Game-console.AssemblyInfo.cs
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net10.0\TicTacToe-Game-console.csproj.CoreCompileInputs.cache
+C:\Users\windows\OneDrive\Tictactoe\TicTacToe-Game-console\obj\Debug\net10.0\TicTacToe-Game-console.sourcelink.json
