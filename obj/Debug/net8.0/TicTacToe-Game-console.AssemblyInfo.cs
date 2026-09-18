@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TicTacToe-Game-console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+415bae45b3d4bd090e2bf0156c0d464186d733ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d43c0597fd7d22802c9011509eeecca42d57541c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TicTacToe-Game-console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TicTacToe-Game-console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
