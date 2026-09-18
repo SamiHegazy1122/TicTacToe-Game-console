@@ -8,7 +8,6 @@ namespace gamelogic
         private Board board = new Board();
         private Algorithm ai = new Algorithm();
         private bool playerTurn = true;
-
         public void Run()
         {
             board.Print();
@@ -47,10 +46,8 @@ namespace gamelogic
                 PlayerMove();
                 return;
             }
-
             int row = (input - 1) / 3;
             int col = (input - 1) % 3;
-
             if (!board.Placemark(row, col, 'X'))
             {
                 Console.WriteLine("Field already taken!");
